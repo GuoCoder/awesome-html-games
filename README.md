@@ -4,7 +4,7 @@
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
-**收录**：112 款（本地离线归档 22 款，其余为在线演示或源码链接） · 数据快照：2026-11-21
+**收录**：116 款（本地离线归档 22 款，其余为在线演示或源码链接） · 数据快照：2026-11-22
 
 ## 离线运行说明
 
@@ -1555,6 +1555,54 @@
 [在线试玩](https://fable52.games/play/mall-action-astra) ｜ [作者演示站](https://rlorca.github.io/mall-action/gpt-6.2-astra-xhigh/) ｜ [源码](https://github.com/rlorca/mall-action)
 
 *感谢作者 **@rlorca** 的开源分享！*
+
+### 113 · 重庆（试玩版）· CHONGQING
+
+![重庆（试玩版）· CHONGQING](screenshots/113.jpg)
+
+**EN**: A trip through Chongqing in a browser tab: the monorail through a 19-storey block at Liziba, Hongyadong lit up on the Jialing, and a time trial between them.
+
+<sub>技术：three.js · 语言：JavaScript · 游玩量：21</sub>
+
+[在线试玩](https://fable52.games/play/chongqing) ｜ [作者演示站](https://lab.ytdeepsea.com/games/chongqing/)
+
+*感谢作者 **Gary 曹淦** 的分享！*
+
+### 114 · NIGHTSHIFT: Survive the Midnight
+
+![NIGHTSHIFT: Survive the Midnight](screenshots/114.jpg)
+
+**EN**: An endless rain-soaked highway at midnight: thread traffic for near misses, burn four seconds of nitro at a time, and stay out of the tanker pile-ups.
+
+<sub>类别：竞速 · 技术：three.js · 语言：JavaScript · 游玩量：8</sub>
+
+[在线试玩](https://fable52.games/play/nightshift-fable) ｜ [作者演示站](https://eddizege.github.io/nightshift-fable/) ｜ [源码](https://github.com/EddizEge/nightshift-fable)
+
+*感谢作者 **@EddizEge** 的开源分享！*
+
+### 115 · HIGHLINE — A Rooftop Run at Golden Hour
+
+![HIGHLINE — A Rooftop Run at Golden Hour](screenshots/115.jpg)
+
+**EN**: Claude Opus 5.5's first-person parkour run: 10 checkpoints over about 20 rooftops, wall-runs, ziplines, two shortcuts and a ghost of your best time.
+
+<sub>技术：three.js · 语言：JavaScript · 游玩量：6</sub>
+
+[在线试玩](https://fable52.games/play/highline) ｜ [作者演示站](https://clockendbader.github.io/model-arena/opus-5.5/parkour/) ｜ [源码](https://github.com/clockendbader/model-arena)
+
+*感谢作者 **@clockendbader** 的开源分享！*
+
+### 116 · Crash Quota
+
+![Crash Quota](screenshots/116.jpg)
+
+**EN**: A 60-second demolition derby at a proving ground: bonk 40 dummies, wreck five feral prototype cars or run three laps before the shift clock runs out.
+
+<sub>技术：原生 WebGL · 语言：JavaScript · 游玩量：5</sub>
+
+[在线试玩](https://fable52.games/play/crash-quota) ｜ [作者演示站](https://smashi.app/arcade/crash-quota-fable/) ｜ [源码](https://github.com/Mythfinity/crash-quota-fable)
+
+*感谢作者 **@Mythfinity** 的开源分享！*
 
 ## 归档与来源说明
 

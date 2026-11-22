@@ -111,3 +111,7 @@ id,name,repo,play_url,author_demo,render,build,delivery,language,stars,category,
 110,Santa Express: Chimney Panic!,thestringtheories/Santa-Game,https://fable52.games/play/santa-express,https://thestringtheories.github.io/Santa-Game/,three.js,,源码仓库,JavaScript,0,,2026-11-21
 111,夕陽郵航 (Sunset Airmail),jambocoder159/ai-game-duel,https://fable52.games/play/xiyang-youhang-astra,https://jambocoder159.github.io/ai-game-duel/versions/astra/index.html,Canvas 2D,,源码仓库,JavaScript,0,,2026-11-21
 112,Mall Action,rlorca/mall-action,https://fable52.games/play/mall-action-astra,https://rlorca.github.io/mall-action/gpt-6.2-astra-xhigh/,Canvas 2D,,源码仓库,JavaScript,0,动作,2026-11-21
+113,重庆（试玩版）· CHONGQING,,https://fable52.games/play/chongqing,https://lab.ytdeepsea.com/games/chongqing/,three.js,,作者站点,JavaScript,0,,2026-11-22
+114,NIGHTSHIFT: Survive the Midnight,EddizEge/nightshift-fable,https://fable52.games/play/nightshift-fable,https://eddizege.github.io/nightshift-fable/,three.js,,源码仓库,JavaScript,0,竞速,2026-11-22
+115,HIGHLINE — A Rooftop Run at Golden Hour,clockendbader/model-arena,https://fable52.games/play/highline,https://clockendbader.github.io/model-arena/opus-5.5/parkour/,three.js,,源码仓库,JavaScript,0,,2026-11-22
+116,Crash Quota,Mythfinity/crash-quota-fable,https://fable52.games/play/crash-quota,https://smashi.app/arcade/crash-quota-fable/,原生 WebGL,,源码仓库,JavaScript,0,,2026-11-22
