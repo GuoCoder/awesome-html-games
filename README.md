@@ -1336,6 +1336,8 @@
 
 ![柑仔的晚霞航空信](screenshots/94.jpg)
 
+**中文**：一只小猫驾纸飞机掠过晚霞中的海港小镇：收集黄昏邮票、投递信件，躲开雷雨云；无尽模式，三条命，一局定胜负。源码已开源。
+
 **EN**: A cat on a paper plane over a harbour town at sunset: collect dusk stamps, post letters, dodge thunderclouds. Endless, three lives, one roll.
 
 <sub>技术：Canvas 2D · 语言：JavaScript · 游玩量：8</sub>
@@ -1347,6 +1349,8 @@
 ### 95 · Fault Line Echoes
 
 ![Fault Line Echoes](screenshots/95.jpg)
+
+**中文**：第一人称冒险：穿越白石都城与四处荒野，签署洪水报告、承接委托，从四种战斗风格中择一上手。作者托管演示站，未公开独立源码。
 
 **EN**: A first-person adventure across a white-stone capital and four wild regions: sign the flood report, take commissions, pick one of four fighting styles.
 
@@ -1360,6 +1364,8 @@
 
 ![LAST LIGHT — Rooftop Run](screenshots/96.jpg)
 
+**中文**：第一人称跑酷计时赛：黄金时刻的城市里，从起点屋顶一路跑到塔顶信标，共十个检查点，并保留最佳成绩的影子对手。源码已开源。
+
 **EN**: A first-person parkour time trial across a golden-hour city: ten checkpoints from the start roof to the beacon on the tower, and a ghost of your best run.
 
 <sub>技术：three.js · 语言：JavaScript · 游玩量：12</sub>
@@ -1371,6 +1377,8 @@
 ### 97 · Papertrails
 
 ![Papertrails](screenshots/97.jpg)
+
+**中文**：一本可以走进去的无尽立体书：穿行五片生物群系，纸村随脚步升起又折起，沿途收集压花叶片、贝壳与夜空星辰。源码已开源。
 
 **EN**: An endless pop-up book you walk through: paper villages rise and fold away as you wander five biomes, collecting pressed leaves, shells and night stars.
 
@@ -1384,6 +1392,8 @@
 
 ![Mall Action (Claude Fable 5.2)](screenshots/98.jpg)
 
+**中文**：8-bit 谍战小品：80 年代商场六层楼、三部电梯、十间俯视角店铺，藏着六个隐秘包裹；本作为 Fable 5.2 版本。源码已开源。
+
 **EN**: Claude Fable 5.2's 8-bit spy caper: six floors, three elevator shafts, ten top-down store rooms and six hidden packages in an 80s shopping mall.
 
 <sub>类别：动作 · 技术：原生 JS · 语言：JavaScript · 游玩量：1</sub>
@@ -1395,6 +1405,8 @@
 ### 99 · The Tallow Deep
 
 ![The Tallow Deep](screenshots/99.jpg)
+
+**中文**：单文件第一人称恐怖 Roguelike：提灯下探十层，节制用油与理智，甩开一头吞食光线的猎手。源码已开源。
 
 **EN**: Claude Opus 5.5's first-person horror roguelike in one HTML file: carry a lantern down ten floors, ration oil and sanity, and outrun a hunter that eats light.
 
@@ -1408,6 +1420,8 @@
 
 ![Boo-mas](screenshots/100.jpg)
 
+**中文**：一只戴圣诞帽的小幽灵在雪花球星球上牵起彩灯：围成一个圈，圈内所有装饰便在午夜前一并点亮。源码已开源。
+
 **EN**: A ghost in a Santa hat trails fairy lights around a snow-globe planet: close a loop, and everything inside it lights up before midnight.
 
 <sub>类别：休闲 · 技术：three.js · 语言：JavaScript · 游玩量：9</sub>
@@ -1419,6 +1433,8 @@
 ### 101 · Pocket Roads: Midnight Pass
 
 ![Pocket Roads: Midnight Pass](screenshots/101.jpg)
+
+**中文**：瑞士山口 3.2 公里午夜计时赛，为平板设计：双指操控，四个检查点与奖牌时间，另设适配真实玩具车的模式。源码已开源。
 
 **EN**: A 3.2 km midnight time trial over a Swiss Alpine pass, built for a tablet: two-thumb controls, four checkpoints, medal times and a mode for a real toy car.
 
@@ -1432,6 +1448,8 @@
 
 ![Hamster Colony](screenshots/102.jpg)
 
+**中文**：低多边形 3D 仓鼠笼自演化：仓鼠吃喝、轮流跑轮、睡觉、成家养老，一代接一代繁衍下去。源码已开源。
+
 **EN**: A low-poly 3D hamster cage that runs itself: hamsters eat, drink, take turns on the wheel, sleep, raise families and grow old, generation after generation.
 
 <sub>类别：模拟 · 技术：three.js · 语言：JavaScript · 游玩量：5</sub>
@@ -1443,6 +1461,8 @@
 ### 103 · Dusk Runner — Rooftop Time Trial
 
 ![Dusk Runner — Rooftop Time Trial](screenshots/103.jpg)
+
+**中文**：第一人称屋顶计时跑酷：八个片区、24 座屋顶，翻越、墙跑、攀爬与滑索，再与自己最佳成绩的影子竞速。源码已开源。
 
 **EN**: A first-person parkour time trial over 24 rooftops in eight sectors: vault, wall-run, climb and ride ziplines, then race the ghost of your best run.
 
@@ -1456,6 +1476,8 @@
 
 ![Saltwake — The Drowned Abbey](screenshots/104.jpg)
 
+**中文**：单文件第一人称航海恐怖 Roguelike：下探被水淹没的修道院，敲响三口钟，回应失踪妹妹的呼唤。源码已开源。
+
 **EN**: A first-person maritime horror roguelike in one HTML file: descend a drowned abbey, ring three bells and answer your lost sister's call.
 
 <sub>技术：three.js · 语言：JavaScript · 游玩量：2</sub>
@@ -1468,6 +1490,8 @@
 
 ![Lantern Drift · 天燈漂流](screenshots/105.jpg)
 
+**中文**：引导一盏天灯升上台湾平溪：接住炭火续燃、收集心愿，躲开雨幕、电线、燕子与瓦片屋檐。源码已开源。
+
 **EN**: Guide a sky lantern up over Pingxi, Taiwan: catch embers to keep the flame alive, gather wishes, and dodge rain, wires, swallows and tiled eaves.
 
 <sub>技术：Canvas 2D · 语言：JavaScript · 游玩量：2</sub>
@@ -1479,6 +1503,8 @@
 ### 106 · Mall Action (Claude Opus 5.5)
 
 ![Mall Action (Claude Opus 5.5)](screenshots/106.jpg)
+
+**中文**：Opus 5.5 版 8-bit 谍战：乘电梯、给间谍关灯，俯视角搜遍店铺找到六个包裹，再乘旅行车脱身。源码已开源。
 
 **EN**: Claude Opus 5.5's 8-bit spy caper: ride the elevators, drop the lights on spies, search top-down stores for six packages and escape in a station wagon.
 
@@ -1500,6 +1526,8 @@
 
 ![Lantern Drift · 天燈漂流 (Claude Fable 5.2)](screenshots/108.jpg)
 
+**中文**：天灯对决的 Fable 5.2 一方：操控剪纸天灯穿过屋檐、电线、飞鸟与雨云，让火苗一直燃着。源码已开源。
+
 **EN**: Claude Fable 5.2's side of the Lantern Drift duel: steer a paper-cut sky lantern up through eaves, wires, birds and rain clouds, and keep its flame alive.
 
 <sub>技术：原生 JS · 语言：JavaScript · 游玩量：1</sub>
@@ -1511,6 +1539,8 @@
 ### 109 · Blackburn Type D
 
 ![Blackburn Type D](screenshots/109.jpg)
+
+**中文**：驾驶 1912 年 Blackburn 单翼机飞过虚构小镇的四个光环；每穿过一环，翻开一页现存机型档案与历史照片。源码已开源。
 
 **EN**: Fly a 1912 Blackburn monoplane through four rings over a fictional town; each ring opens a chapter on the surviving aircraft, with archive photographs.
 
@@ -1524,6 +1554,8 @@
 
 ![Santa Express: Chimney Panic!](screenshots/110.jpg)
 
+**中文**：60 秒驾圣诞老人雪橇飞过北欧村庄，把礼物投进发光烟囱；连续投递连击加成，最高 ×5。源码已开源。
+
 **EN**: Fly Santa's sleigh over a Nordic village for 60 seconds and drop presents down glowing chimneys; every delivery in a streak multiplies, up to ×5.
 
 <sub>技术：three.js · 语言：JavaScript · 游玩量：1</sub>
@@ -1535,6 +1567,8 @@
 ### 111 · 夕陽郵航 (Sunset Airmail)
 
 ![夕陽郵航 (Sunset Airmail)](screenshots/111.jpg)
+
+**中文**：双模型对决的 Astra 一方：操控小猫纸飞机飞行 60 秒，收集邮票、躲开雷雨云，抵达灯塔。源码已开源。
 
 **EN**: GPT-6.2 Astra's side of a two-model duel: steer a cat's paper plane for 60 seconds, collect stamps, dodge thunderclouds and reach the lighthouse.
 
@@ -1548,6 +1582,8 @@
 
 ![Mall Action](screenshots/112.jpg)
 
+**中文**：索降进入商场，乘电梯、躲开戴礼帽的黑衣人，在保安合围前找到六个包裹；256×240 像素风谍战小品。源码已开源。
+
 **EN**: Zip-line onto a shopping mall, ride the elevators, dodge the men in fedoras and find six packages before security closes in. A 256 × 240 pixel-art caper.
 
 <sub>类别：动作 · 技术：Canvas 2D · 语言：JavaScript · 游玩量：1</sub>
@@ -1559,6 +1595,8 @@
 ### 113 · 重庆（试玩版）· CHONGQING
 
 ![重庆（试玩版）· CHONGQING](screenshots/113.jpg)
+
+**中文**：浏览器里逛重庆：李子坝穿楼而过的轻轨、嘉陵江畔亮起的洪崖洞，以及两点之间的一段计时穿行。作者托管演示站、未公开源码，仅作在线条目。
 
 **EN**: A trip through Chongqing in a browser tab: the monorail through a 19-storey block at Liziba, Hongyadong lit up on the Jialing, and a time trial between them.
 
@@ -1572,6 +1610,8 @@
 
 ![NIGHTSHIFT: Survive the Midnight](screenshots/114.jpg)
 
+**中文**：午夜无尽雨夜公路：贴身擦过车流完成险过超车，每次烧四秒氮气，躲开油罐车连环相撞。源码已开源。
+
 **EN**: An endless rain-soaked highway at midnight: thread traffic for near misses, burn four seconds of nitro at a time, and stay out of the tanker pile-ups.
 
 <sub>类别：竞速 · 技术：three.js · 语言：JavaScript · 游玩量：8</sub>
@@ -1583,6 +1623,8 @@
 ### 115 · HIGHLINE — A Rooftop Run at Golden Hour
 
 ![HIGHLINE — A Rooftop Run at Golden Hour](screenshots/115.jpg)
+
+**中文**：Opus 5.5 第一人称屋顶跑酷：约 20 座屋顶、10 个检查点，墙跑、滑索与两条捷径，附最佳成绩影子对手。源码已开源。
 
 **EN**: Claude Opus 5.5's first-person parkour run: 10 checkpoints over about 20 rooftops, wall-runs, ziplines, two shortcuts and a ghost of your best time.
 
@@ -1596,6 +1638,8 @@
 
 ![Crash Quota](screenshots/116.jpg)
 
+**中文**：试车场 60 秒撞车德比：撞扁 40 个假人、撞毁五辆失控原型车，或在工时结束前跑完三圈。源码已开源。
+
 **EN**: A 60-second demolition derby at a proving ground: bonk 40 dummies, wreck five feral prototype cars or run three laps before the shift clock runs out.
 
 <sub>技术：原生 WebGL · 语言：JavaScript · 游玩量：5</sub>
@@ -1608,6 +1652,8 @@
 
 ![天师摇人](screenshots/117.jpg)
 
+**中文**：3×3 功德老虎机接塔防：三连召一道符箓，三印召出钟馗，守住十波攻势；手机也能玩。源码已开源。
+
 **EN**: A 3×3 merit slot machine wired to a tower defence: three in a line summons a talisman, three seals summon 钟馗, and ten waves want the ward. Works on phones too.
 
 <sub>类别：策略 · 技术：Canvas 2D · 语言：JavaScript · 游玩量：1</sub>
@@ -1619,6 +1665,8 @@
 ### 118 · Saltline Brawl
 
 ![Saltline Brawl](screenshots/118.jpg)
+
+**中文**：手绘横版清版格斗：一座码头、四场对战，外加一位拎锚的码头主管；每拳入账 50，绝招要消耗血量，内置引导与 FAQ。源码已开源。
 
 **EN**: One pier, four fights and a harbormaster with an anchor: a hand-drawn beat-'em-up where every punch pays 50 and the special costs health. Guide and FAQ inside.
 
