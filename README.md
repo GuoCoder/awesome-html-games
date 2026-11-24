@@ -1,6 +1,6 @@
-# Awesome HTML Games · Fable 5.2 小游戏收藏
+# Awesome HTML Games · AI 生成网页小游戏收藏
 
-这是一批由 **Fable 5.2**（AI 辅助编程）在很短时间内生成的网页小游戏合集，题材涵盖 FPS、动作、解谜、休闲、策略、竞速、模拟、开放世界、跑酷、RPG、探索，以及驾驶、建造、体育、平台、恐怖、仙侠、回合制等。技术栈以 Three.js 为主力，辅以原生 WebGL、Canvas 2D 与原生 JS，个别把核心逻辑编译成 WebAssembly、用 WebGPU 渲染，不少作品被压缩成单个 HTML 文件。本仓库将可离线运行的版本归档到 [`games/`](games/)，封面图存于 [`screenshots/`](screenshots/)，并在每条下方注明原始来源与作者。
+这是一批收录自 fable52.games 平台、由多款 AI 编程模型（Fable 5.2、Claude Opus、GPT-6.2 Astra 等）在很短时间内生成的网页小游戏合集，题材涵盖 FPS、动作、解谜、休闲、策略、竞速、模拟、开放世界、跑酷、RPG、探索，以及驾驶、建造、体育、平台、恐怖、仙侠、回合制等。技术栈以 Three.js 为主力，辅以原生 WebGL、Canvas 2D 与原生 JS，个别把核心逻辑编译成 WebAssembly、用 WebGPU 渲染，不少作品被压缩成单个 HTML 文件。本仓库将可离线运行的版本归档到 [`games/`](games/)，封面图存于 [`screenshots/`](screenshots/)，并在每条下方注明原始来源与作者。
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
@@ -1679,7 +1679,7 @@
 ## 归档与来源说明
 
 - 游戏名称、源码仓库、平台页、演示站、技术栈与分类等原始字段见 [`games.csv`](games.csv)。
-- 离线归档自作者公开演示站镜像；封面图来自 Fable 5.2 平台缩略图。版权与著作权归各原作者所有，本仓库仅作学习与收藏用途。
+- 离线归档自作者公开演示站镜像；封面图来自 fable52.games 平台缩略图。版权与著作权归各原作者所有，本仓库仅作学习与收藏用途。
 - 仅提供源码、暂无公开演示的条目（01 / 04 / 05 / 11 / 24），README 中仅保留源码链接。
-- 08 为 Node + WebSocket 多人联机服务，12–15 的游戏本体由 Fable 平台流式提供、无独立公开演示站，均未做本地静态归档，仅保留封面图与在线 / 源码链接。
+- 08 为 Node + WebSocket 多人联机服务，12–15 的游戏本体由 fable52 平台流式提供、无独立公开演示站，均未做本地静态归档，仅保留封面图与在线 / 源码链接。
 - 39（Open Skies）运行时在线拉取地形瓦片、实时天气与 OSM 建筑数据，无法完整离线；40、42 为在线多人联机，需后端服务器，均仅作在线条目归档。
