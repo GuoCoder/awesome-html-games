@@ -1,6 +1,6 @@
 # Awesome HTML Games · Fable 5.2 小游戏收藏
 
-这是一批由 **Fable 5.2**（AI 辅助编程）在很短时间内生成的网页小游戏合集，题材涵盖开放世界、FPS、RTS、解谜、驾驶、体育、恐怖、仙侠等。技术栈以 Three.js / WebGL、Canvas 2D 与原生 JS 为主，不少作品被压缩成单个 HTML 文件。本仓库将可离线运行的版本归档到 [`games/`](games/)，封面图存于 [`screenshots/`](screenshots/)，并在每条下方注明原始来源与作者。
+这是一批由 **Fable 5.2**（AI 辅助编程）在很短时间内生成的网页小游戏合集，题材涵盖 FPS、动作、解谜、休闲、策略、竞速、模拟、开放世界、跑酷、RPG、探索，以及驾驶、建造、体育、平台、恐怖、仙侠、回合制等。技术栈以 Three.js 为主力，辅以原生 WebGL、Canvas 2D 与原生 JS，个别把核心逻辑编译成 WebAssembly、用 WebGPU 渲染，不少作品被压缩成单个 HTML 文件。本仓库将可离线运行的版本归档到 [`games/`](games/)，封面图存于 [`screenshots/`](screenshots/)，并在每条下方注明原始来源与作者。
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
