@@ -115,3 +115,5 @@ id,name,repo,play_url,author_demo,render,build,delivery,language,stars,category,
 114,NIGHTSHIFT: Survive the Midnight,EddizEge/nightshift-fable,https://fable52.games/play/nightshift-fable,https://eddizege.github.io/nightshift-fable/,three.js,,源码仓库,JavaScript,0,竞速,2026-11-22
 115,HIGHLINE — A Rooftop Run at Golden Hour,clockendbader/model-arena,https://fable52.games/play/highline,https://clockendbader.github.io/model-arena/opus-5.5/parkour/,three.js,,源码仓库,JavaScript,0,,2026-11-22
 116,Crash Quota,Mythfinity/crash-quota-fable,https://fable52.games/play/crash-quota,https://smashi.app/arcade/crash-quota-fable/,原生 WebGL,,源码仓库,JavaScript,0,,2026-11-22
+117,天师摇人,zhgarylu/everyday-game,https://fable52.games/play/tianshi-yaoren,https://zhgarylu.github.io/everyday-game/merit/,Canvas 2D,,源码仓库,JavaScript,0,策略,2026-11-24
+118,Saltline Brawl,Mythfinity/saltline-brawl-fable,https://fable52.games/play/saltline-brawl,https://smashi.app/arcade/saltline-brawl-fable/,原生 JS,,源码仓库,JavaScript,0,动作,2026-11-24

@@ -4,7 +4,7 @@
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
-**收录**：116 款（本地离线归档 22 款，其余为在线演示或源码链接） · 数据快照：2026-11-22
+**收录**：118 款（本地离线归档 22 款，其余为在线演示或源码链接） · 数据快照：2026-11-24
 
 ## 离线运行说明
 
@@ -1601,6 +1601,30 @@
 <sub>技术：原生 WebGL · 语言：JavaScript · 游玩量：5</sub>
 
 [在线试玩](https://fable52.games/play/crash-quota) ｜ [作者演示站](https://smashi.app/arcade/crash-quota-fable/) ｜ [源码](https://github.com/Mythfinity/crash-quota-fable)
+
+*感谢作者 **@Mythfinity** 的开源分享！*
+
+### 117 · 天师摇人
+
+![天师摇人](screenshots/117.jpg)
+
+**EN**: A 3×3 merit slot machine wired to a tower defence: three in a line summons a talisman, three seals summon 钟馗, and ten waves want the ward. Works on phones too.
+
+<sub>类别：策略 · 技术：Canvas 2D · 语言：JavaScript · 游玩量：1</sub>
+
+[在线试玩](https://fable52.games/play/tianshi-yaoren) ｜ [作者演示站](https://zhgarylu.github.io/everyday-game/merit/) ｜ [源码](https://github.com/zhgarylu/everyday-game)
+
+*感谢作者 **@zhgarylu** 的开源分享！*
+
+### 118 · Saltline Brawl
+
+![Saltline Brawl](screenshots/118.jpg)
+
+**EN**: One pier, four fights and a harbormaster with an anchor: a hand-drawn beat-'em-up where every punch pays 50 and the special costs health. Guide and FAQ inside.
+
+<sub>类别：动作 · 技术：原生 JS · 语言：JavaScript · 游玩量：4</sub>
+
+[在线试玩](https://fable52.games/play/saltline-brawl) ｜ [作者演示站](https://smashi.app/arcade/saltline-brawl-fable/) ｜ [源码](https://github.com/Mythfinity/saltline-brawl-fable)
 
 *感谢作者 **@Mythfinity** 的开源分享！*
 
