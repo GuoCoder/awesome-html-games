@@ -4,7 +4,7 @@
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
-**收录**：118 款（本地离线归档 22 款，其余为在线演示或源码链接） · 数据快照：2026-11-24
+**收录**：120 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-25
 
 ## 离线运行说明
 
@@ -1675,6 +1675,24 @@
 [在线试玩](https://fable52.games/play/saltline-brawl) ｜ [作者演示站](https://smashi.app/arcade/saltline-brawl-fable/) ｜ [源码](https://github.com/Mythfinity/saltline-brawl-fable)
 
 *感谢作者 **@Mythfinity** 的开源分享！*
+
+### 119 · EMBER DAWN · 烬晓行动
+
+![EMBER DAWN · 烬晓行动](screenshots/119.jpg)
+
+**EN**: Hold a rain-slick town outpost at dusk, clearing wave after wave of soldiers with six guns and three killstreak strikes. Free in your browser, no download.
+
+<sub>类别：FPS · 技术：three.js · 语言：HTML · 体量：5.0 MB · 游玩量：13</sub>
+
+[离线归档](games/119/) ｜ [在线试玩](https://fable52.games/play/ember-dawn-k7q2vd)
+
+*感谢作者 **黎** 的分享！*
+
+### 120 · SHUTTERPINE
+
+<sub>技术：three.js · 语言：JavaScript · 游玩量：36</sub>
+
+[在线试玩](https://fable52.games/play/shutter)
 
 ## 归档与来源说明
 
