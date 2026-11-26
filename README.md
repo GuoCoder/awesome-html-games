@@ -4,7 +4,7 @@
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
-**收录**：120 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-25
+**收录**：122 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-26
 
 ## 离线运行说明
 
@@ -1693,6 +1693,30 @@
 <sub>技术：three.js · 语言：JavaScript · 游玩量：36</sub>
 
 [在线试玩](https://fable52.games/play/shutter)
+
+### 121 · Cinderwatch
+
+![Cinderwatch](screenshots/121.jpg)
+
+**EN**: Hold a ruined keep's beacon against twenty kinds of monster with four upgradable towers, across five lands and a boss every fifth wave. Play free, no download.
+
+<sub>类别：策略 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：2</sub>
+
+[在线试玩](https://fable52.games/play/cinderwatch) ｜ [作者演示站](https://kevintngo.github.io/cinderwatch/) ｜ [源码](https://github.com/kevintngo/cinderwatch)
+
+*感谢作者 **@kevintngo** 的开源分享！*
+
+### 122 · 雪迹 · Cold Smoke
+
+![雪迹 · Cold Smoke](screenshots/122.jpg)
+
+**EN**: Carve an endless mountain that builds itself as you ski, from morning light to aurora, and set your time on today's shared run. Play free, no download.
+
+<sub>类别：竞速 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：17</sub>
+
+[在线试玩](https://fable52.games/play/cold-smoke) ｜ [作者演示站](https://huisky.xyz/cold-smoke/play) ｜ [源码](https://github.com/huiskylabs/cold-smoke)
+
+*感谢作者 **@huiskylabs** 的开源分享！*
 
 ## 归档与来源说明
 

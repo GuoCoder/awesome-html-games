@@ -119,3 +119,5 @@ id,name,repo,play_url,author_demo,render,build,delivery,language,stars,category,
 118,Saltline Brawl,Mythfinity/saltline-brawl-fable,https://fable52.games/play/saltline-brawl,https://smashi.app/arcade/saltline-brawl-fable/,原生 JS,,源码仓库,JavaScript,0,动作,2026-11-24
 119,EMBER DAWN · 烬晓行动,,https://fable52.games/play/ember-dawn-k7q2vd,,three.js,,单文件 HTML,HTML,0,FPS,2026-11-25
 120,SHUTTERPINE,,https://fable52.games/play/shutter,,three.js,,作者站点,JavaScript,0,,2026-11-25
+121,Cinderwatch,kevintngo/cinderwatch,https://fable52.games/play/cinderwatch,https://kevintngo.github.io/cinderwatch/,原生 WebGL,,源码仓库,JavaScript,0,策略,2026-11-26
+122,雪迹 · Cold Smoke,huiskylabs/cold-smoke,https://fable52.games/play/cold-smoke,https://huisky.xyz/cold-smoke/play,原生 WebGL,,源码仓库,JavaScript,0,竞速,2026-11-26
