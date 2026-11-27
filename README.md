@@ -4,7 +4,7 @@
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
-**收录**：122 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-26
+**收录**：126 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-27
 
 ## 离线运行说明
 
@@ -1717,6 +1717,48 @@
 [在线试玩](https://fable52.games/play/cold-smoke) ｜ [作者演示站](https://huisky.xyz/cold-smoke/play) ｜ [源码](https://github.com/huiskylabs/cold-smoke)
 
 *感谢作者 **@huiskylabs** 的开源分享！*
+
+### 123 · Palmera Heat
+
+![Palmera Heat](screenshots/123.jpg)
+
+**EN**: Steal a cherry-red Marlin GT, shake a five-star wanted level in Palmera Bay, and take four jobs from the people who own it. Free in your browser, no download.
+
+<sub>类别：动作 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：1</sub>
+
+[在线试玩](https://fable52.games/play/palmera-heat) ｜ [作者演示站](https://modelbehavioryt.github.io/claude-vs-chatgpt-ai-games/browser/claude/) ｜ [源码](https://github.com/ModelBehaviorYT/claude-vs-chatgpt-ai-games)
+
+*感谢作者 **@ModelBehaviorYT** 的开源分享！*
+
+### 124 · UNWRITTEN
+
+![UNWRITTEN](screenshots/124.jpg)
+
+**EN**: Wander an open world drawn entirely in letters, write the words that open rivers and walls, and fight the thing deleting it. Free in your browser, no download.
+
+<sub>类别：动作 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：4</sub>
+
+[在线试玩](https://fable52.games/play/unwritten) ｜ [作者演示站](https://tetriss22.github.io/unwritten/) ｜ [源码](https://github.com/Tetriss22/unwritten)
+
+*感谢作者 **@Tetriss22** 的开源分享！*
+
+### 125 · Brushwild
+
+![Brushwild](screenshots/125.jpg)
+
+**EN**: Pick a class, grow a skill tree and chase five rarities of loot through a pencil-drawn world of towns, crypts and dungeons. Free in your browser, no download.
+
+<sub>类别：动作 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：18</sub>
+
+[在线试玩](https://fable52.games/play/brushwild) ｜ [作者演示站](https://kevintngo.github.io/procedural-rpg/) ｜ [源码](https://github.com/kevintngo/procedural-rpg)
+
+*感谢作者 **@kevintngo** 的开源分享！*
+
+### 126 · Gabriel's Sweet Town
+
+<sub>技术：原生 JS · 语言：JavaScript · 游玩量：18</sub>
+
+[在线试玩](https://fable52.games/play/gabriels-sweet)
 
 ## 归档与来源说明
 
