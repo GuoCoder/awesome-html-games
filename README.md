@@ -4,7 +4,7 @@
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
-**收录**：126 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-27
+**收录**：124 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-27
 
 ## 离线运行说明
 
@@ -1680,6 +1680,8 @@
 
 ![EMBER DAWN · 烬晓行动](screenshots/119.jpg)
 
+**中文**：黄昏雨夜守住小镇前哨，用六把枪与三种连杀奖励一波波清剿来袭士兵；three.js 单文件，已离线归档。
+
 **EN**: Hold a rain-slick town outpost at dusk, clearing wave after wave of soldiers with six guns and three killstreak strikes. Free in your browser, no download.
 
 <sub>类别：FPS · 技术：three.js · 语言：HTML · 体量：5.0 MB · 游玩量：13</sub>
@@ -1688,15 +1690,11 @@
 
 *感谢作者 **黎** 的分享！*
 
-### 120 · SHUTTERPINE
-
-<sub>技术：three.js · 语言：JavaScript · 游玩量：36</sub>
-
-[在线试玩](https://fable52.games/play/shutter)
-
 ### 121 · Cinderwatch
 
 ![Cinderwatch](screenshots/121.jpg)
+
+**中文**：塔防守城：在五片土地上布置四座可升级防御塔，抵御二十余种怪物，每五波迎来一名 Boss，守住废墟古堡的烽火台。源码已开源。
 
 **EN**: Hold a ruined keep's beacon against twenty kinds of monster with four upgradable towers, across five lands and a boss every fifth wave. Play free, no download.
 
@@ -1710,6 +1708,8 @@
 
 ![雪迹 · Cold Smoke](screenshots/122.jpg)
 
+**中文**：无尽雪山滑雪：山体随滑行不断生成，从晨光滑到极光，并在当日共享赛道上刷新自己的最佳成绩。源码已开源。
+
 **EN**: Carve an endless mountain that builds itself as you ski, from morning light to aurora, and set your time on today's shared run. Play free, no download.
 
 <sub>类别：竞速 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：17</sub>
@@ -1721,6 +1721,8 @@
 ### 123 · Palmera Heat
 
 ![Palmera Heat](screenshots/123.jpg)
+
+**中文**：海湾动作追逐：偷走一辆樱桃红 Marlin GT，在帕尔梅拉海湾甩掉五星通缉，再接下四份由当地势力派发的差事。源码已开源。
 
 **EN**: Steal a cherry-red Marlin GT, shake a five-star wanted level in Palmera Bay, and take four jobs from the people who own it. Free in your browser, no download.
 
@@ -1734,6 +1736,8 @@
 
 ![UNWRITTEN](screenshots/124.jpg)
 
+**中文**：一个全由字母绘成的开放世界：写下词语便能劈开河流与墙壁，同时对抗那个不断擦除世界的存在。源码已开源。
+
 **EN**: Wander an open world drawn entirely in letters, write the words that open rivers and walls, and fight the thing deleting it. Free in your browser, no download.
 
 <sub>类别：动作 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：4</sub>
@@ -1746,6 +1750,8 @@
 
 ![Brushwild](screenshots/125.jpg)
 
+**中文**：铅笔手绘世界的动作 RPG：选职业、点技能树，在城镇、墓穴与地城里追逐五种稀有度的装备。源码已开源。
+
 **EN**: Pick a class, grow a skill tree and chase five rarities of loot through a pencil-drawn world of towns, crypts and dungeons. Free in your browser, no download.
 
 <sub>类别：动作 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：18</sub>
@@ -1753,12 +1759,6 @@
 [在线试玩](https://fable52.games/play/brushwild) ｜ [作者演示站](https://kevintngo.github.io/procedural-rpg/) ｜ [源码](https://github.com/kevintngo/procedural-rpg)
 
 *感谢作者 **@kevintngo** 的开源分享！*
-
-### 126 · Gabriel's Sweet Town
-
-<sub>技术：原生 JS · 语言：JavaScript · 游玩量：18</sub>
-
-[在线试玩](https://fable52.games/play/gabriels-sweet)
 
 ## 归档与来源说明
 
