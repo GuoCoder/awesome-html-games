@@ -1764,6 +1764,8 @@
 
 ![Turbo Pals Grand Prix](screenshots/126.jpg)
 
+**中文**：卡丁车竞速：挑选伙伴、座驾与赛道，在四条赛道、三个引擎等级、八辆卡丁车间漂移到火花泛粉。源码已开源。
+
 **EN**: Pick a pal, a kart and a track, then drift until the sparks turn pink: four courses, three engine classes, eight karts. Free in your browser, no download.
 
 <sub>类别：竞速 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：1</sub>
@@ -1775,6 +1777,8 @@
 ### 127 · Beatbound
 
 ![Beatbound](screenshots/127.jpg)
+
+**中文**：一键节奏平台跳跃：三关速度 140–160 BPM，点按跳跃、空中点触发光圆环，长按滑翔翼与飞镖滑行。源码已开源。
 
 **EN**: One button, three levels from 140 to 160 BPM: tap to jump, tap the glowing rings mid-air, and hold to fly the glider and the dart. Play free, no download.
 
@@ -1788,9 +1792,11 @@
 
 ![Grand Tel Aviv 6](screenshots/128.jpg)
 
+**中文**：3D 特拉维夫跑腿：为家人、邻居与老板四处办事，看看午夜之前还能让这座城市留住多少人心。源码已开源。
+
 **EN**: Run favours for your family, neighbours and boss across a 3D Tel Aviv, and see how much of the city stays happy until midnight. Play free, no download.
 
-<sub>技术：原生 WebGL · 语言：JavaScript · 游玩量：9</sub>
+<sub>类别：模拟 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：9</sub>
 
 [在线试玩](https://fable52.games/play/grand-tel-aviv-6) ｜ [作者演示站](https://grand-tel-aviv-6.web.app) ｜ [源码](https://github.com/LorelDev/grand-tel-aviv-6)
 
