@@ -4,7 +4,7 @@
 
 **仓库地址**：[GuoCoder/awesome-html-games](https://github.com/GuoCoder/awesome-html-games)
 
-**收录**：124 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-27
+**收录**：127 款（本地离线归档 23 款，其余为在线演示或源码链接） · 数据快照：2026-11-28
 
 ## 离线运行说明
 
@@ -1759,6 +1759,42 @@
 [在线试玩](https://fable52.games/play/brushwild) ｜ [作者演示站](https://kevintngo.github.io/procedural-rpg/) ｜ [源码](https://github.com/kevintngo/procedural-rpg)
 
 *感谢作者 **@kevintngo** 的开源分享！*
+
+### 126 · Turbo Pals Grand Prix
+
+![Turbo Pals Grand Prix](screenshots/126.jpg)
+
+**EN**: Pick a pal, a kart and a track, then drift until the sparks turn pink: four courses, three engine classes, eight karts. Free in your browser, no download.
+
+<sub>类别：竞速 · 技术：原生 WebGL · 语言：JavaScript · 游玩量：1</sub>
+
+[在线试玩](https://fable52.games/play/turbo-pals-grand-prix) ｜ [作者演示站](https://modelbehavioryt.github.io/claude-ai-kart-racer/1-hour/) ｜ [源码](https://github.com/ModelBehaviorYT/claude-ai-kart-racer)
+
+*感谢作者 **@ModelBehaviorYT** 的开源分享！*
+
+### 127 · Beatbound
+
+![Beatbound](screenshots/127.jpg)
+
+**EN**: One button, three levels from 140 to 160 BPM: tap to jump, tap the glowing rings mid-air, and hold to fly the glider and the dart. Play free, no download.
+
+<sub>类别：平台 · 技术：Canvas 2D · 语言：JavaScript · 游玩量：8</sub>
+
+[在线试玩](https://fable52.games/play/beatbound) ｜ [作者演示站](https://modelbehavioryt.github.io/claude-vs-chatgpt-dash-game/claude/) ｜ [源码](https://github.com/ModelBehaviorYT/claude-vs-chatgpt-dash-game)
+
+*感谢作者 **@ModelBehaviorYT** 的开源分享！*
+
+### 128 · Grand Tel Aviv 6
+
+![Grand Tel Aviv 6](screenshots/128.jpg)
+
+**EN**: Run favours for your family, neighbours and boss across a 3D Tel Aviv, and see how much of the city stays happy until midnight. Play free, no download.
+
+<sub>技术：原生 WebGL · 语言：JavaScript · 游玩量：9</sub>
+
+[在线试玩](https://fable52.games/play/grand-tel-aviv-6) ｜ [作者演示站](https://grand-tel-aviv-6.web.app) ｜ [源码](https://github.com/LorelDev/grand-tel-aviv-6)
+
+*感谢作者 **@LorelDev** 的开源分享！*
 
 ## 归档与来源说明
 
